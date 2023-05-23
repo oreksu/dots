@@ -1,4 +1,4 @@
-# ubuntu 20.04
+# Ubuntu 20.04 Setup
 
 ```
 sudo apt update && sudo apt upgrade
