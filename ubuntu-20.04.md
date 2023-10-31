@@ -12,6 +12,10 @@ sudo apt update && sudo apt upgrade
   - Delete all bullcrap apps
 - Install GNOME Tweaks
   - `sudo apt install gnome-tweak-tool`
+- Install VS Code
+  - Go to [vs code](https://code.visualstudio.com/)
+  - Download `.deb`
+  - Open the file and click `Install`
 
 ## Keyabord
 - Change keybaord shortcut for terminal to `Super+T`
