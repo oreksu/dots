@@ -19,6 +19,7 @@ sudo apt update && sudo apt upgrade
 
 ## Keyabord
 - Change keybaord shortcut for terminal to `Super+T`
+- Change keybaord shortcut for `Close window` to `Super+Q`
 - Go to `Tweaks`
   - Go to `Keyboard & Mouse`
     - Click `Additional Layout Options`
