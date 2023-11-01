@@ -27,6 +27,13 @@ sudo apt update && sudo apt upgrade
 ## Visual
 - Change default Window colors to `Dark`
 - Change wallpaper to something nice from [wallhaven](https://wallhaven.cc/)
+- Remove icons from Desktop
+  - Go to `Extenssions` and turn off `Desktop Icons`
+- Disable Ubuntu extenssions
+  - Go to `Extenssions` and turn off:
+    - `Desktop Icons`
+    - `Ubuntu AppIndicators`
+    - `Ubuntu Dock`
 
 ## General
 - Install vanilla GNOME
